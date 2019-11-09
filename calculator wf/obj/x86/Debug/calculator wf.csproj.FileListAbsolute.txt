@@ -1,0 +1,8 @@
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\calculator wf\calculator wf\bin\Debug\calculator wf.exe
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\calculator wf\calculator wf\bin\Debug\calculator wf.pdb
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\calculator wf\calculator wf\obj\x86\Debug\calculator_wf.Form1.resources
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\calculator wf\calculator wf\obj\x86\Debug\calculator_wf.Properties.Resources.resources
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\calculator wf\calculator wf\obj\x86\Debug\calculator wf.csproj.GenerateResource.Cache
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\calculator wf\calculator wf\obj\x86\Debug\calculator wf.exe
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\calculator wf\calculator wf\obj\x86\Debug\calculator wf.pdb
+C:\Users\Hadi\Documents\Visual Studio 2010\Projects\calculator wf\calculator wf\obj\x86\Debug\calculator wf.csprojResolveAssemblyReference.cache
